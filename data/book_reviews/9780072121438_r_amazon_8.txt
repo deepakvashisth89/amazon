@@ -1,0 +1,1 @@
+I use Linux, but I buy this book two weeks ago when I wanted to run the  Solaris program. It is really good (some commands are even the same). The  English is easy to understand and there are good examples. Many problems  solved in these pages. Best chapter is about devices - Solaris /dev is more  difficult than Linux I think.Read moreRead less

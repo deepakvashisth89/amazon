@@ -1,0 +1,1 @@
+Build scenarios and campaigns that are uniquely yoursConstruct both single- and multiplayer mapsUse StarEdit's trigger system to spontaneously generate new unitsTry capture-the-flag, maze, death match, or even RPG scenarios!Learn how to replace game sounds with any sound you wantRead more

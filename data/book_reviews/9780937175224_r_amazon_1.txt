@@ -1,0 +1,1 @@
+Really good book if your ever become interested in the deeper workings of the Unix terminal. I became interested in this topic after experiencing some problems with vi. I feel much more empowered now and less intimidated by anything termcap/terminfo related.Read moreRead less

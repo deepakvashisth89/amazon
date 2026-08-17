@@ -1,0 +1,1 @@
+The book gives only a brief idea of the usage of Corba. Its nice but very brief. More information, if given will be of much use. Since a separte book  on Corba should give more information, if the author should do the  necessary.Read moreRead less

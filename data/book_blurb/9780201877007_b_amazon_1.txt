@@ -1,0 +1,1 @@
+This is the definitive text and reference for the new ADA 95 standard. It highlights the important changes from the ANSI 83 version: the increased support for object-oriented programming, the introduction of a hierarchical library structure and the inclusion of protected objects.Read more

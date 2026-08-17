@@ -1,0 +1,1 @@
+SQL--Structured Query Language--is the language all relational databases use to make enquiries. This essential book teaches SQL programming in the shortest possible time. It covers both the ANSI standard as the minimum requirement, and also discusses different implementations. It also serves as a handy reference.Read more

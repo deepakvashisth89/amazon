@@ -1,0 +1,1 @@
+A very good reference if you are good in the basic concepts of C++ / Java  or if you already program using Javascript. This pocket book should stay  close to your computer. After a sufficient practice of Javascript  programming you won't need another guide.Read moreRead less

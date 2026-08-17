@@ -1,0 +1,1 @@
+I really enjoyed this book.  It made using the LWP libraries much easier.  It is well written, though repetative in some places (my only major complaint).I'd recommend this book to anyone who does Perl programming and wants to build quick, simple and easy web 'bots to scavange the net for information on your behalf.Read moreRead less

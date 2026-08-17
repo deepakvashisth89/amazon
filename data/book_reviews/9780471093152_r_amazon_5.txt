@@ -1,0 +1,1 @@
+It's an (relatively) easy introduction to statistics. What makes it different from many others, is that the book follows an imaginary chemical engineer who has to make a decision on a plastic compound. Each chapter deals with a question and shows the theory and the practice on the statistic operators required to give an answer to the engineer.Read moreRead less

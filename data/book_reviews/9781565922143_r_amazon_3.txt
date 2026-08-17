@@ -1,0 +1,1 @@
+I bought the book and finished it within 24 hours! I called it an easy book since I can understand most part of the book quickly. And it solves a lot of my puzzles for a lot of diifcult HTTP concepts.  Only improvement I hope to see in next release is to include a chapter for SSL clients. It's essential to work with SSL servers in near future.Read moreRead less

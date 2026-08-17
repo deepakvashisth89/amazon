@@ -1,0 +1,1 @@
+I've beed using Samba for the last 2 years and this book helped me finally understand how to properly configure it in 1 night. Very well written and easy to understand. Topics like oplocks and network printer configuration  are explained in an easy to read manner. If your using or plan to use  Samba, you need this book. Well worth the money.Read moreRead less

@@ -1,0 +1,1 @@
+Excellent book to focus on the Korn Shell.  The other book Classic Shell programming is agnostic as to what shell you're using so that one should be the foundation for learning shell, then pick the shell you want and buy the book for that one.  This book fills in the basics and some intermediate level to advanced scripting.Read moreRead less

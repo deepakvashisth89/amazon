@@ -1,0 +1,1 @@
+A very good book to read if one wants to know what a DNS server is, and how to configure one. A lot of detail on the server configuration, and on creating zone files for your domains over which a server is to be authoritative.Read moreRead less

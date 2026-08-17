@@ -1,0 +1,1 @@
+Offers step-by-step instructions on how to develop personalized custom controls for Delphi applications, and provides detailed coverage on flexible VCL component architecture, debugging, and Object-Oriented Programming. Original. (Advanced)Read more

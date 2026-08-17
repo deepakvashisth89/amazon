@@ -1,0 +1,1 @@
+Helps graphic designers get the most out of this nextgeneration graphics file format and programmers who want to add full PNGsupport to their own applications by emphasizing the implementation of PNG with the libng C library and discussing such improvements as gamma correction and standard color spaces. Original. (Intermediate)Read more

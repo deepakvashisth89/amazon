@@ -1,0 +1,1 @@
+Very good to pick up lisp as well as AI. Code seems to have some minor incompatibility with modern implementations like SBCL. But too early to say it definitelyRead moreRead less

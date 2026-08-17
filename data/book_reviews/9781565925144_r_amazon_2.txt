@@ -1,0 +1,1 @@
+This is not a book for you if you are a Visual C++ developer, and looking for material which will help you do better event logging.  The event logging API is same as in MSDN or VC help. Didn't give me anymore insight  than the help files provided by VC.Read moreRead less

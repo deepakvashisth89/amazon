@@ -1,0 +1,1 @@
+This is a book based on concepts rather than details.  It discusses structure, normalization, keys etc. in general rather than specific programming help.  Mind you this is just what the author wanted to accomplish.  I found this book a good starting point and by itself was very helpful for the 70-100 MCSD exam.Read moreRead less

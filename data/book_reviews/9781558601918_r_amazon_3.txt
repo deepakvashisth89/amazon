@@ -1,0 +1,1 @@
+This is a excellent book for both the history of AI and a lot of program written very well in Common Lisp. Peter Norvig is actuallyvery enthusastic about AI and programming. From a glimpse of the book, I know it is valuable for learner both of AI and Common Lisp.  So I decided to buy one for myself.Read moreRead less

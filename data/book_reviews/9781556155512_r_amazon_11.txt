@@ -1,0 +1,1 @@
+Indeed, the author speaks of C and takes memory management as an example.For sure it's pretty C specific and "low level". Yet the advices, the overall feedback and contents fit for any language or developer and really rock. To me the book is better than Clean Code and the others books I've read on the matter.And if you're writing C, it could still be valid ^^Read moreRead less

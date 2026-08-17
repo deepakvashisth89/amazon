@@ -1,0 +1,1 @@
+This is without doubt the best Delphi book I ever bought.  This is the book that explains all the great changes that were made in Delphi 3 (major structural changes from D1 and D2).  I wrote a custom TDataSet class for a custom Database my company used with the explanation provided in this book.  It laid the foundation of my Delphi Career.Read moreRead less

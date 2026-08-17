@@ -1,0 +1,1 @@
+The book's very good,it's very helpful for those who work with network,specially in security field.The authors are very experienced in networking.It describes the TCP/IP in detail and shows how it work and how to recognize strange network traffic by monitoring the network using tcpdump.I recommend it for seasoned network administrators and for beginners.Read moreRead less

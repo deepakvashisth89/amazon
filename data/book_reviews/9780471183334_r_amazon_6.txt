@@ -1,0 +1,1 @@
+This book gives a good orientation in "CORBA world": concepts, CORBA services, CORBA-Java relationship. It also shows major players and products. A good book !Read moreRead less

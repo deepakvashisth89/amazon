@@ -1,0 +1,1 @@
+I consider myself a beginner Perl-hacker.  I use Perl to accomplish directly applicable tasks for my work (Logic Designer).  I hack as little as needed to get the job done.Having said that, when I have a new problem to solve, this is the first book I peruse for ideas... and more often than not I find something very useful and applicable.Read moreRead less

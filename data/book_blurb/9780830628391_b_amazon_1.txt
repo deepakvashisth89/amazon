@@ -1,0 +1,1 @@
+Shows how to make an audio generator, mixer, tape tester, transmitter, antenna, multimeter, temperature gauge, and voltmeter, and introduces the basics of magnetism and electricityRead more

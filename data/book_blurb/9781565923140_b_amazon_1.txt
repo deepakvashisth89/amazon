@@ -1,0 +1,1 @@
+An illustrated tutorial shows how to use Perl/Tk to build graphical, event-driven applications for both Windows and UNIX and teaches how to implement and configure each Perl/Tk graphical element. Original. (Intermediate).Read more

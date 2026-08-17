@@ -1,0 +1,1 @@
+The best Lisp book for experienced programmers.  He shows how to develop medium sized Lisp systems.  I don't know of any books that showlarge Lisp systems.  But, you can download large system code and try to understand it yourself.Read moreRead less

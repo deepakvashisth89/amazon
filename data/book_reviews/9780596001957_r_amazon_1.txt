@@ -1,0 +1,1 @@
+Essential for the Korn Shell programmer and generally more lucid (no pun intended ;) than the Korn/Bolsky book. Recommended as a standalone guide or as a companion reference to the Korn/Bolsky book.Read moreRead less

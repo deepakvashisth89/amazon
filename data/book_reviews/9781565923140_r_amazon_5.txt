@@ -1,0 +1,1 @@
+Although I don't program in Perl, I bought this book because it was recommended as a reference for using TK with the Ruby language, since there is no good documentation for Ruby/TK.  I found the book very easy to use, and was able to make some fairly complex GUI's pretty quickly.  I use the book a lot, and highly recommend it.Read moreRead less

@@ -1,0 +1,1 @@
+The rule about pulling the plug to preserve the evidence is history.  The authors explain the importance of getting a snapshot of system dynamics.  For example, who is logged in to the machine, what ports are open, what is going on.Real world information is provided.  Any security professional or forensic investigator who hasn't read this book is out of dateRead moreRead less

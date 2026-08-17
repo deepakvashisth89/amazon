@@ -1,0 +1,1 @@
+This is one of my favorite Delphi 3 books, as it covers material not  easily found elsewhere. This is not a beginner's book by any means. The  coverage of DLLs, COM, and threading is outstanding. This is a book for  those who want to delve more deeply into the relationships between VCLs and  the WinAPI.Read moreRead less

@@ -1,0 +1,1 @@
+I got this really cheap and honestly, it's a great language to know if you're in a unix style command line also. As someone who mainly uses simple sed / awk commands, it has enabled me to achieve much more and understand more potential functionality around tasks I've needed to achieve.Read moreRead less

@@ -1,0 +1,1 @@
+I was hoping for practical examples of how to set up more complex server networking configurations such as multi-homing, bridging, and load-balancing etc.  These aren't the focus of this book, which nonetheless covers lots of other useful subject and I am pleased I bought it.Read moreRead less

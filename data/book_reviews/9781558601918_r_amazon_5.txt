@@ -1,0 +1,1 @@
+This is a must have book for all LISP programmers, very concise and the exercises are a good pratice. Non LISP programmers will enjoy the reading but a reference book will be welcome.Read moreRead less

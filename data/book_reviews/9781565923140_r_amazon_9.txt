@@ -1,0 +1,1 @@
+A useful reference book that has helped me a lot. I am not entirely in agreement with the structure that I feel focuses first on the look and then on the function. That said, there is a lot of information available and I have been able, in a short time and from a low knowledge base, to write some useful interfaces for manipulating mySQL databases.Read moreRead less

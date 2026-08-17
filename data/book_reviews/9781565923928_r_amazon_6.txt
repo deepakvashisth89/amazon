@@ -1,0 +1,1 @@
+This book, along with Dynamic HTML by Danny Goodman, provided me with a good learning tool and reference on Javascript.  The organization and style is concise; the details you need are included.  What I didn't find in one was usually found in the other.Read moreRead less

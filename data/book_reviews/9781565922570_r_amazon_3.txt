@@ -1,0 +1,1 @@
+This provides good information, with examples on how to use the syntax.  While I thought I understood enough of the basics to write some simple scripts, I realized I needed more and this was my answer.Read moreRead less

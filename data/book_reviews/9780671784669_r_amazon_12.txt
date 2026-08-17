@@ -1,0 +1,1 @@
+Dialogue for different characters placed on the same line.  Very difficult to know who is saying what and have to track backwards and then count forward again.  Obviously, something wrong with the way the paragraph breaks were handled.Read moreRead less

@@ -1,0 +1,1 @@
+While this is a book on intrusion detection, I bought it for another reason. A friend refered me to this book when I asked him about "sniffing". The book is a great introduction to network sniffing! I give it "only" four stars because it falls short of its primary goal IDS.Read moreRead less

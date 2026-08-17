@@ -1,0 +1,1 @@
+I used this  books for my MCSE exam (70-59), and I scored 896 on the exam. This is a good book, but doesn't have enough information on subnetting. You may also want to get more information on DNS if you are going to use this book for TCP/IP 4.0 (Exam 70-59). Otherwise this book has what it needs to pass the examRead moreRead less

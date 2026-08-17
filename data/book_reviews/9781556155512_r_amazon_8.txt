@@ -1,0 +1,1 @@
+Very good book to build core concepts for programming in C. Learned a lot of new things about writing secure, 'solid' code.Read moreRead less

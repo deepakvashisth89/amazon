@@ -1,0 +1,1 @@
+If the author followed his own guidelines for quality management, he would offer every owner of this book a free upgrade to "Resurrection of the American  Programmer", in which he explains why he was so wrong in  this book.  But I think you'd be better off refusing the upgrade, and going  with DeMarco, Beck, or Fowler.Read moreRead less

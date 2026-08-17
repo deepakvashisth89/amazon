@@ -1,0 +1,1 @@
+VI is the only editor that runs when the system has been booted in the simplest mode. So you need to know how it works. This book does a great job here. But stay away from vi whenever possible. Use jed, joe or nano when you can.Read moreRead less

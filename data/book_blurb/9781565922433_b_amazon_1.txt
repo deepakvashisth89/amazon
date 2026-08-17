@@ -1,0 +1,1 @@
+A collection of problems, solutions, and examples for anyone programming in Perl covers everything from beginner questions to techniques that even the most experienced Perl programmers might learn from, including recipes for parsing strings, doing matrix multiplication, and more. Original. (Advanced).Read more

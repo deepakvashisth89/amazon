@@ -1,0 +1,1 @@
+A must read.  You can master coding syntax, but can you write code that is maintainable and less prone to bugs?  This book has many good insights into what coding styles work and what don't.  One of the best books I've used.Read moreRead less

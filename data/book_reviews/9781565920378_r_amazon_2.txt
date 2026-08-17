@@ -1,0 +1,1 @@
+This book contains all the basic commands needed by system analysts in an easy to find format.  I recommend this book to all SCO Unix technicians and system analysts of SCO Unix systems.Read moreRead less

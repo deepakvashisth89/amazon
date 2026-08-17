@@ -1,0 +1,1 @@
+This book is old, but thankfully VBA hasn't changed much over the years.  I wanted to understand VBA from a more rigorous programming perspective (as opposed to just creating macros with the record button).  I wanted to understand syntax, structure, etc.  This book provides all those details and also functions as a handy reference.Read moreRead less

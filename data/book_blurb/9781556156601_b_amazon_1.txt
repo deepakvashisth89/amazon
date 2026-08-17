@@ -1,0 +1,1 @@
+The NT File System (NTFS) is a new file system with advanced capabilities, created specifically for use with the Microsoft Windows NT operating system. In this book Helen Custer, author of the bestselling Inside Windows NT, provides an inside look at the design of the unique new file system.Read more

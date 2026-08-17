@@ -1,0 +1,1 @@
+Das Buch ist eine schöne Einführung und sicher empfehlenswert, jedoch wird nicht auf die Neuerungen in vim eingegangen. Dies kann man aufgrund des Titels zwar auch nicht erwarten, einige Hinweise, wie auf die Wort- und Zeilenvervollständigung wären aber ganz nett gewesen!Ansonsten liest es sich angenehm und die vielen Beispiele sind gut verständlich.Read moreRead less

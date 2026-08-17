@@ -1,0 +1,1 @@
+Good book for understanding many of the subtleties of matrices and curves. It takes an experimental approach which I find refreshing. (such as what happens to a vector point if we change the matrix like this...)Read moreRead less

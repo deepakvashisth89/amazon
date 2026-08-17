@@ -1,0 +1,1 @@
+This book is a long long introduction and only an introduction unfortunately. You won't be able to understand Linux well after reading this book. Some examples doesn't work. The author trying to cover  everything and nothing in depth. However it might help you to make a first  step(only) to the world of Linux.Read moreRead less

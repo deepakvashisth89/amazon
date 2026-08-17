@@ -1,0 +1,1 @@
+I have read a few of the Resource Kits now, (NT Workstation, NT Server ) and this is by far the best one.The NT Resource Kits left me wanting for more concise information, and a better read (less verbose) but this book gives a concise and yet complete reference of IIS 4.0Read moreRead less

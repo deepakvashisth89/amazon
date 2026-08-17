@@ -1,0 +1,1 @@
+This books is awful. The SNMP tools provided on the CDROM do not load up properly. The source code does not address anything new or clever that you can't get from the MSDN. Save yourself the trouble of returning it (look elsewhere).Read moreRead less

@@ -1,0 +1,1 @@
+Very interesting and very predictive of much of what has come to pass.  Sketches out a broad framework of cyber-architecture without getting stuck in low-level implementation details.  I read it because I am designing a tool to operate in today's cloud ecosystem, and this framework is chock full of guiding principles.Read moreRead less

@@ -1,0 +1,1 @@
+Wer darüber nachdenkt sich dieses Buch zu kaufen sollte eventuell vorher "Classic Shell Scripting" des selben Verlags lesen.Dieses Buch beschreibt hervorragend sed & awk, aber eben nicht mehr. Viele Dinge in dem Buch machen natürlich nur Sinn oder ergeben einen Nutzen wenn man fundierte Shell-Scripting Fähigkeiten vorweisen kann.Read moreRead less
